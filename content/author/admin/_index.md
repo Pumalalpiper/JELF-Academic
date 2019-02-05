@@ -1,45 +1,41 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Julio E. Lopez Fenner"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Professor of Discrete Mathematics, Cryptography and Multi Party Computation"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Universidad de La Frontera", url = "http://www.ufro.cl" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Mathematical modeling of Biological Structures, Discrete Mathematics, Cryptography and Multi Party Computation."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "julio dot lopez at ufrontera dot cl"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Mathematical Modeling",
+  "Discrete Mathematics",
+  "Cryptography",
+  "Multi Party Computation"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Mathematical Physics (Dr. rer. nat)"
+  institution = "Technische Universität Clausthal, Germany"
+  year = 1990
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Mathematical Engineer"
+  institution = "Universidad de Chile"
+  year = 1985
 
 # Social/Academic Networking
 #
@@ -81,13 +77,12 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+   icon = "cv"
+   icon_pack = "ai"
+   link = "files/cv.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Julio López Fenner is a professor of Mathematical Modeling, Discrete Mathematics, Cryptography and Multi Party Computation at Universidad de La Frontera, Temuco, Chile.  His research interests include Mathematical Biology, Cryptography and Multi Party Computation. He leads the CyberSecurity workgroup at CMCC, the Center for Scientific Computing at UFrontera.
+ 
